@@ -2,7 +2,7 @@
 
 **` Aspiring Data Scientist `**
 
-
+I am currently a 4th year college undergrad majoring in computer science. I study at Mapua Malayan Colleges Mindanao. Hoping to land a career in data. Working in a team has been a significant part of my experience. I believe I have enough work experience to prove that I am a team player and a good follower. On the other hand, my experience as an active member of the MCM Computing Student Society as Honorary Council and Facilitator, demonstrate that I can also be a good leader. My achievements and accomplishments do not indicate that I am knowledgeable; rather, they represent my commitment to my lifelong learning journey.
 
 <!--
 **Vaughn24/Vaughn24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
