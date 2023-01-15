@@ -1,4 +1,4 @@
-### Hi there 👋
+# Kenneth Von Golosinda
 
 **` Aspiring Data Scientist `**
 
