@@ -2,7 +2,7 @@
 
 **` Aspiring Data Scientist `**
 
-I am currently a 4th year college undergrad majoring in computer science. I study at Mapua Malayan Colleges Mindanao. Hoping to land a career in data. Working in a team has been a significant part of my experience. I believe I have enough work experience to prove that I am a team player and a good follower. My achievements and accomplishments do not indicate that I am knowledgeable; rather, they represent my commitment to my lifelong learning journey.
+I recently graduated with a degree in Computer Science from Mapúa Malayan Colleges Mindanao, where I specialized in data science and honed my technical skills. Collaborating within teams has been a significant aspect of my journey, providing me with valuable experience. I believe I have enough work experience to prove that I am a team player and a good follower. On the other hand, my experience as an active member of the MMCM Computing Student Society as Honorary Council and Facilitator, demonstrate that I can also be a good leader. My achievements and accomplishments do not indicate that I am knowledgeable; rather, they represent my commitment to my lifelong learning journey.
 
 ### 🧰 Languages and Tools
 
