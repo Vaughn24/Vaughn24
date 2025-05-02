@@ -2,7 +2,7 @@
 
 **` Aspiring Data Scientist `**
 
-I recently graduated with a degree in Computer Science from Mapúa Malayan Colleges Mindanao, where I specialized in data science and honed my technical skills. Collaborating within teams has been a significant aspect of my journey, providing me with valuable experience. I believe I have enough work experience to prove that I am a team player and a good follower. On the other hand, my experience as an active member of the MMCM Computing Student Society as Honorary Council and Facilitator, demonstrate that I can also be a good leader. My achievements and accomplishments do not indicate that I am knowledgeable; rather, they represent my commitment to my lifelong learning journey.
+I'm a data professional passionate about uncovering insights that drive decisions. With Python programming and analytics expertise, I blend technical skills with business acumen to transform complex data into actionable strategies. My journey in the data world has taught me that numbers tell compelling stories when properly understood. I'm particularly excited about the evolving landscape of generative AI and its potential to revolutionize how we work with data. I thrive in collaborative environments where I can leverage analytical thinking to solve challenging problems. Always curious and continuously learning, I'm seeking opportunities to apply my data expertise while expanding my knowledge in emerging AI technologies.
 
 ### 🧰 Languages and Tools
 
